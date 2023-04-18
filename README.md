@@ -1,2 +1,1 @@
-# league_of_recycle
-Concurso Greening Group y Medac 
+League of Recycle is a project aimed at promoting recycling practices in educational institutions. We developed an Android application using Java and Android Studio, which provides a fun and engaging platform for students to learn about the importance of recycling and how they can contribute to a sustainable future. Our app features interactive games, quizzes, and informative resources to make recycling education accessible and enjoyable for all ages. 
